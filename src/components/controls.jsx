@@ -1,5 +1,5 @@
 import React from "react";
-import Clock from "./clock";
+import Clock from "./modernClock";
 
 class Controls extends React.Component {
     constructor(props) {
